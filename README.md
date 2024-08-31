@@ -19,7 +19,7 @@
 					<h3 align="left">Programming & Tech Stacks:</h3>
 					<table>
 						<tr>
-							<th><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40"></th>
+							<th><img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="ios" width="40" height="40"></th>
 							<td>Apple iOS</td>
 						</tr>
 						<tr>
@@ -66,7 +66,7 @@
 		<div style="padding: 10px;">
 			<h3 style="margin: 0; padding: 0;">Connect with me:</h3>
 			<a href="https://www.dev.to/ham118" target="blank" style="margin: 0; padding: 0;"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="ham118" height="60" width="60" /></a>
-			<a href="https://www.linkedin.com/in/ham118" target="blank" style="margin: 0; padding: 0;"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://linkedin.com/in/ham118" height="30" width="50" /></a>
+			<a href="https://www.linkedin.com/in/ham118" target="blank" style="margin: 0; padding: 0;"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://linkedin.com/in/ham118" height="30" width="30" /></a>
 			<a href="https://www.twitter.com/_ham118" target="blank" style="margin: 0; padding: 0;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ham118" height="30" width="50" /></a>
 			<h5 style="margin: 0; padding-left: 10px;">👉
 				<a href="mailto:ham118.dev@gmail.com">Send me an email</a>
