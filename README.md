@@ -3,55 +3,57 @@
 	<body style="margin: 40px; padding: 6px;">
 		<h2>Hi, I'm Harsh 🙋🏻‍♂️</h2>
 		<h3>Technology Specialist ✦ iOS Software Engineer ✦ Apple Ecosystem Software Developer ✦ React Native ✦ Architect ✦ Mobile App Developer & Consultant</h3>
-		<ul>
-			<li>💬 Ask me about **Native mobile app development using Swift, Objective-C, SwiftUI and React-Native**</li>
-			<li>🌱 I'm currently mastering **Swift & SwiftUI**</li>
-			<li>⚡️ Available for Developing iOS, macOS, WatchOS, iPadOS and Cross-Platform Mobile Apps, Open Source Contribution and Writing Technology Blog</li>
-			<li>👯 Looking to collaborate on **Native iOS/React-Native projects and it's collections.**</li>
-			<li>😀 Available communication language: **English**</li>
-			<li>📫 Reach me at **ham118.dev@gmail.com** </li>
-		</ul>
-		<div style="display: flex; flex-direction: row; gap: 20px; text-align: center; width: 100%; display: block;">
-			<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ham118&show_icons=true&locale=en&layout=compact" alt="ham118" /></p>
+		<div>
+			<ul>
+				<li>💬 Ask me about <b>Native mobile app development using Swift, Objective-C, SwiftUI and React-Native</b></li>
+				<li>🌱 I'm currently mastering <b>Swift & SwiftUI</b></li>
+				<li>⚡️ Available for <b>Developing iOS, macOS, WatchOS, iPadOS and Cross-Platform Mobile Apps, Open Source Contribution and Writing Technology Blog</b></li>
+				<li>👯 Looking to collaborate on <b>Native iOS/React-Native projects and it's collections.</b></li>
+				<li>😀 Available communication language: <b>English</b></li>
+				<li>📫 Reach me at <b>ham118.dev@gmail.com</b></li>
+			</ul>
 		</div>
-        </br>
-                <div style="width: 100%; "display: block;">
-		<h3 align="left">Programming Tech Stacks:</h3>
-		<div style="display: flex; flex-direction: row; gap: 30px; text-align: center;">
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40">
-				<p class="text-center">Apple iOS</p>
-			</div>
-			<div>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40">
-				<p class="text-center">Swift</p>
-			</div>
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="60" height="40">
-				<p class="text-center">Objective-C</p>
-			</div>
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40">
-				<p class="text-center">React-Native</p>
-			</div>
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="" width="40" height="40">
-				<p class="text-center">JavaScript</p>
-			</div>
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40">
-				<p class="text-center">Android</p>
-			</div>
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
-				<p class="text-center">Firebase</p>
-			</div>
-			<div>
-				<img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google map" width="40" height="40">
-				<p class="text-center">Google Map</p>
+		<div style="display: flex; flex-direction: row;">
+			<div style="flex: 1;">
+				<div style="margin-top: 20px;">
+					<h3 align="left">Programming & Tech Stacks:</h3>
+					<table>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40"></th>
+							<td>Apple iOS</td>
+						</tr>
+						<tr>
+							<th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"></th>
+							<td>Swift</td>
+						</tr>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"></th>
+							<td>Objective-C</td>
+						</tr>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"></th>
+							<td>React Native</td>
+						</tr>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="" width="40" height="40"></th>
+							<td>JavaScript</td>
+						</tr>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"></th>
+							<td>Android</td>
+						</tr>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"></th>
+							<td>Firebase</td>
+						</tr>
+						<tr>
+							<th><img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google map" width="40" height="40"></th>
+							<td>Google Map</td>
+						</tr>
+					</table>
+				</div>
 			</div>
 		</div>
-                </div>
 		<div>
 			<h3 align="left">Badges for Github activity:</h3>
 			<p align="left"> 
