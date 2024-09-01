@@ -5,11 +5,11 @@
         <h3>iOS Software Engineer ✦ Apple Ecosystem Software Developer ✦ React Native ✦ Architect ✦ Mobile App Developer & Consultant</h3>
         <div>
             <ul>
-                <li>💬 Ask me about <b>Native mobile app development using Swift, Objective-C, SwiftUI and React-Native</b>
+                <li>📱 Mastering <b>Native iOS app development using Swift, Objective-C and SwiftUI</b>
                 </li>
-                <li>🌱 I'm currently mastering <b>Swift & SwiftUI</b>
+                <li>🌱 Currently working on <b>Swift & SwiftUI</b>
                 </li>
-                <li>⚡️ Available for <b>Developing iOS, macOS, WatchOS, iPadOS and Cross-Platform Mobile Apps, Open Source Contribution and Writing Technology Blog</b>
+                <li>⚡️ Available for <b>Developing iOS, macOS, WatchOS, iPadOS and Cross-Platform Mobile Apps</b>
                 </li>
                 <li>👯 Looking to collaborate on <b>Native iOS/React-Native projects and it's collections.</b>
                 </li>
