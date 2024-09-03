@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html>
-    <body style="margin: 54px; padding: 14px;">
+<html style="margin: 10px; padding: 30px;">
+    <body style="margin: 80px; padding: 30px;">
         <h2>Hi, I'm Harsh 🙋🏻‍♂️</h2>
         <h3>iOS Software Engineer ✦ Apple Ecosystem Software Developer ✦ React Native ✦ Architect ✦ Mobile App Developer & Consultant</h3>
         <div>
@@ -9,7 +9,7 @@
                 </li>
                 <li>☘️ Currently working on <b>Swift & SwiftUI</b>.
                 </li>
-                <li>⚡️ Available for <b>Developing iOS, macOS, WatchOS, iPadOS and Cross-Platform Mobile Apps</b>.
+                <li>⚡️ Available for <b>Developing iOS, macOS, WatchOS, tvOS, VisionOS, iPadOS and Cross-Platform Mobile Apps</b>.
                 </li>
                 <li>👯 Looking to collaborate on <b>Native iOS/React-Native projects and it's collections</b>.
                 </li>
@@ -19,7 +19,8 @@
                 </li>
             </ul>
         </div>
-        <h3 align="left" style="margin-top:30px;">Programming & Tech Stacks:</h3>
+    <h1></h1>
+        <h3 align="left" style="margin-top:80px;">Programming & Tech Stacks:</h3>
         <div style="overflow-x: auto;">
             <table>
                 <tr style="text-align: center; vertical-align: middle;">
@@ -50,23 +51,21 @@
                 </tr>
             </table>
         </div>
-        <div style="margin-top:30px; overflow-x: auto; height:190px;">
+         <h1></h1>
+        <div style="margin-top:80px; overflow-x: auto; height:150px;">
             <h3 align="left">Badges for Github activity:</h3>
             <p align="left">
                 <a href="https://github-profile-trophy.vercel.app/?username=ham118" style="overflow-x: auto;">
                     <img src="https://github-profile-trophy.vercel.app/?username=ham118" alt="ham118" style="overflow-x: auto;"/>
                 </a>
             </p>
-            <br>
         </div>
-        <div style="padding: 0px; margin-top:20px;">
+         <h1></h1>
+        <div style="margin-top: -20px">
             <h3>Connect with me:</h3>
             <a href="https://www.dev.to/ham118" target="_blank" text-decoration= "none">
                 <img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="" height="60" width="60" />
             </a>
-<!--              <a href="https://www.twitter.com/_ham118" target="_blank" text-decoration= "none">
-                <img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="_ham118" height="20" width="20" />
-            </a> -->
             <a href="https://www.linkedin.com/in/ham118" target="_blank" text-decoration= "none">
                 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="" height="30" width="30" />
             </a>
