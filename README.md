@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="margin: 20px; padding: 40px;">
+<html style="margin: 30px; padding: 40px;">
     <body style="margin: 80px; padding: 40px;">
         <h2>Hi, I'm Harsh 🙋🏻‍♂️</h2>
         <h3>iOS Software Engineer ✦ Apple Ecosystem Software Developer ✦ React Native ✦ Architect ✦ Mobile App Developer & Consultant</h3>
@@ -9,7 +9,7 @@
                 </li>
                 <li>☘️ Currently working on <b>Swift & SwiftUI</b>.
                 </li>
-                <li>⚡️ Available for Developing <b>iOS, macOS, watchOS, tvOS, visionOS, iPadOS and Cross-Platform Mobile Apps</b>.
+                <li>⚡️ Available for developing <b>iOS</b>, macOS, watchOS, tvOS, visionOS, iPadOS and <b>Cross-Platform Mobile Apps</b>.
                 </li>
                 <li>👯 Looking to collaborate on <b>Native iOS/React-Native</b> projects and it's collections.
                 </li>
